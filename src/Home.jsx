@@ -19,7 +19,7 @@ function Home() {
       .then((res) => res.json())
       .then((data) => setGeoJson(data))
       .catch((err) => console.error("Error fetching GeoJSON:", err));
-  }, []);
+  }, [crimeData]);
 
   const getCrimeRate = (stateName) => {
 
