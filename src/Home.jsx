@@ -24,7 +24,6 @@ function Home() {
   const getCrimeRate = (stateName) => {
     const stateData = crimeData.find(
         (s) => s.state.toString().toUpperCase() == stateName.toString().toUpperCase());
-        console.log("stateData:", stateData);
     return stateData ? stateData.rape + stateData.ka + stateData.dd + stateData.aow + stateData.aom + stateData.dv + stateData.wt: 0;
   };
 
