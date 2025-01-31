@@ -8,7 +8,6 @@ const StatePage = (state) => {
   const [stateData, setStateData] = useState(null);
 
   useEffect(() => {
-    console.log("stateName: ", stateName);
     axios.get(`http://localhost:8080/api/crime-statistics/state/${stateName}`)
       .then(response => {
         setStateData(response.data[0]); // Assuming the state is unique in the dataset
@@ -23,7 +22,6 @@ const StatePage = (state) => {
       {stateData ? (
         <div>
            <h1>Crime Statistics for:  {stateData.state}</h1>
-          {/* <h2>{stateData.state} - Crime Statistics</h2> */}
           <table>
             <thead>
               <tr>
@@ -69,36 +67,3 @@ const StatePage = (state) => {
 };
 
 export default StatePage;
-
-
-// import React, { useEffect, useState } from 'react';
-// import { Link } from "react-router-dom";
- 
-// function StatePage({ state }) {
-//   const [stateData, setStateData] = useState(null);
-
-//   useEffect(() => {
-//     fetch(`http://localhost:8080/api/crime-statistics/state/${state}`)
-//       .then((res) => res.json())
-//       .then((data) => setStateData(data.find((s) => s.state === state)))
-//       .catch((err) => console.error("Error fetching state data:", err));
-//   }, [state]);
-
-//   return (
-//     <div>
-//       <h1>Crime Statistics for {state}</h1>
-//       {stateData ? (
-//         <ul>
-//           <li>Rape: {stateData.rape}</li>
-//           <li>Kidnapping: {stateData.ka}</li>
-//           <li>Dowry Deaths: {stateData.dd}</li>
-//           <li>Assault on Women: {stateData.aow}</li>
-//         </ul>
-//       ) : (
-//         <p>Loading...</p>
-//       )}
-//       <Link to="/">Back to Home</Link>
-//     </div>
-//   );
-// }
-//  export default StatePage;

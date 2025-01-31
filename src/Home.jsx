@@ -22,16 +22,15 @@ function Home() {
   }, []);
 
   const getCrimeRate = (stateName) => {
-    console.log("crimeData->>>>", crimeData);
+
     const stateData = crimeData.find((s) => s.state === stateName);
-    console.log("stateData->>>>", stateData);
+
     return stateData ? stateData.rape + stateData.ka + stateData.dd + stateData.aow + stateData.aom + stateData.dv + stateData.wt: 0;
   };
 
   const onEachState = (feature, layer) => {
     const stateName = feature.properties.st_nm;
     const crimeRate = getCrimeRate(stateName);
-    console.log("crimeRate->>>>", crimeRate);
     layer.setStyle({
       fillColor:  crimeRate <= 5000 ? "yellow" : crimeRate >= 5000 && crimeRate <= 10000 ? "orange" :
         crimeRate >= 10000 && crimeRate <= 20000 ? "purple" : crimeRate >= 20000 ? "red": "white",
