@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import axios from 'axios';
 import { Link } from "react-router-dom";
+import "./StatePage.css";
 
 const StatePage = (state) => {
   const { stateName } = useParams(); // Get state name from the URL
@@ -18,7 +19,7 @@ const StatePage = (state) => {
   }, [stateName]);
 
   return (
-    <div className="state-details">
+    <div className="StatePage center-page">
       {stateData ? (
         <div>
            <h1>Crime Statistics for:  {stateData.state}</h1>
