@@ -9,55 +9,56 @@ const StatePage = (state) => {
   const [stateData, setStateData] = useState(null);
 
   useEffect(() => {
-    axios.get(`http://localhost:8080/api/crime-statistics/state/${stateName}`)
+    axios.get(`http://localhost:8080/api/crime-statistics/state/${stateName.toUpperCase()}`)
       .then(response => {
-        setStateData(response.data[0]); // Assuming the state is unique in the dataset
+        setStateData(response.data);
       })
       .catch(error => {
         console.error("Error fetching state data: ", error);
       });
-  }, [stateName]);
+  }, []);
 
   return (
     <div className="StatePage center-page">
       {stateData ? (
         <div>
-           <h1>Crime Statistics for:  {stateData.state}</h1>
-          <table>
-            <thead>
-              <tr>
-                <th>Year</th>
-                <th>Rape</th>
-                <th>K&A</th>
-                <th>DD</th>
-                <th>AoW</th>
-                <th>AoM</th>
-                <th>DV</th>
-                <th>WT</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>{stateData.crimeYear}</td>
-                <td>{stateData.rape}</td>
-                <td>{stateData.ka}</td>
-                <td>{stateData.dd}</td>
-                <td>{stateData.aow}</td>
-                <td>{stateData.aom}</td>
-                <td>{stateData.dv}</td>
-                <td>{stateData.wt}</td>
-              </tr>
-            </tbody>
-          </table>
-
-          {/* <ul>
-         <li>Rape: {stateData.rape}</li>
-           <li>Kidnapping: {stateData.ka}</li>
-           <li>Dowry Deaths: {stateData.dd}</li>
-           <li>Assault on Women: {stateData.aow}</li>
-         </ul> */}
-
-        </div>
+         <div style={{ padding: '20px' }}>
+              <h1>Crime Statistics for:  {stateName.toUpperCase()}</h1>
+                  <table style={{ width: '100%', borderCollapse: 'collapse' }}>
+                    <thead>
+                      <tr>
+{/*                         <th>ID</th> */}
+                        <th>State</th>
+                        <th>Crime Year</th>
+                        <th>Rape</th>
+                        <th>KA</th>
+                        <th>DD</th>
+                        <th>AOW</th>
+                        <th>AOM</th>
+                        <th>DV</th>
+                        <th>WT</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {/* Map through the data and create a row for each record */}
+                      {stateData.map(record => (
+                        <tr key={record.id}>
+{/*                           <td>{record.id}</td> */}
+                          <td>{record.state}</td>
+                          <td>{record.crimeYear}</td>
+                          <td>{record.rape}</td>
+                          <td>{record.ka}</td>
+                          <td>{record.dd}</td>
+                          <td>{record.aow}</td>
+                          <td>{record.aom}</td>
+                          <td>{record.dv}</td>
+                          <td>{record.wt}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+                </div>
       ) : (
         <p>Loading...</p>
       )}

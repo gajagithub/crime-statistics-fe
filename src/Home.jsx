@@ -19,12 +19,12 @@ function Home() {
       .then((res) => res.json())
       .then((data) => setGeoJson(data))
       .catch((err) => console.error("Error fetching GeoJSON:", err));
-  }, [crimeData]);
+  }, []);
 
   const getCrimeRate = (stateName) => {
-
-    const stateData = crimeData.find((s) => s.state === stateName);
-
+    const stateData = crimeData.find(
+        (s) => s.state.toString().toUpperCase() == stateName.toString().toUpperCase());
+        console.log("stateData:", stateData);
     return stateData ? stateData.rape + stateData.ka + stateData.dd + stateData.aow + stateData.aom + stateData.dv + stateData.wt: 0;
   };
 
@@ -37,6 +37,11 @@ function Home() {
       fillOpacity: 0.7,
       color: "black",
       weight: 1,
+    });
+   // Bind Tooltip to show the name of the state when hovering over it
+    layer.bindTooltip(feature.properties.name, {
+      permanent: false,  // Tooltip will only show on hover, not permanently
+      direction: 'center',  // Position the tooltip in the center of the state
     });
     layer.bindPopup(`<b>${stateName}</b><br>Crime Rate: ${crimeRate}`);
     layer.on("click", () => {
