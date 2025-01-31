@@ -62,7 +62,7 @@ const StatePage = (state) => {
         <p>Loading...</p>
       )}
       <br></br>
-      <Link to="/">Back to Home</Link>
+      <h2> <Link to="/">Back to Home</Link> </h2>
     </div>
   );
 };
