@@ -6,7 +6,7 @@
             "properties": {
                 "district": "Aizawl",
                 "dt_code": "261",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2011_c"
             },
@@ -115,7 +115,7 @@
             "properties": {
                 "district": "Champhai",
                 "dt_code": "262",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2011_c"
             },
@@ -238,7 +238,7 @@
             "properties": {
                 "district": "Kolasib",
                 "dt_code": "263",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2011_c"
             },
@@ -315,7 +315,7 @@
             "properties": {
                 "district": "Lawngtlai",
                 "dt_code": "264",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2011_c"
             },
@@ -392,7 +392,7 @@
             "properties": {
                 "district": "Lunglei",
                 "dt_code": "265",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2011_c"
             },
@@ -505,7 +505,7 @@
             "properties": {
                 "district": "Mamit",
                 "dt_code": "266",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2011_c"
             },
@@ -618,7 +618,7 @@
             "properties": {
                 "district": "Saiha",
                 "dt_code": "267",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2011_c"
             },
@@ -707,7 +707,7 @@
             "properties": {
                 "district": "Serchhip",
                 "dt_code": "268",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2011_c"
             },
@@ -788,7 +788,7 @@
             "properties": {
                 "district": "Khawzawl",
                 "dt_code": "996",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2019"
             },
@@ -857,7 +857,7 @@
             "properties": {
                 "district": "Hnahthial",
                 "dt_code": "994",
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15",
                 "year": "2019"
             },
@@ -918,7 +918,7 @@
             "properties": {
                 "district": "Thiruvallur",
                 "dt_code": "602",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -1067,7 +1067,7 @@
             "properties": {
                 "district": "Chennai",
                 "dt_code": "603",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2018"
             },
@@ -1116,7 +1116,7 @@
             "properties": {
                 "district": "Krishnagiri",
                 "dt_code": "631",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -1257,7 +1257,7 @@
             "properties": {
                 "district": "Tiruvannamalai",
                 "dt_code": "606",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -1406,7 +1406,7 @@
             "properties": {
                 "district": "Dharmapuri",
                 "dt_code": "630",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -1515,7 +1515,7 @@
             "properties": {
                 "district": "Salem",
                 "dt_code": "608",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -1664,7 +1664,7 @@
             "properties": {
                 "district": "Erode",
                 "dt_code": "610",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -1809,7 +1809,7 @@
             "properties": {
                 "district": "Nilgiris",
                 "dt_code": "611",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -1898,7 +1898,7 @@
             "properties": {
                 "district": "Namakkal",
                 "dt_code": "609",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -1995,7 +1995,7 @@
             "properties": {
                 "district": "Perambalur",
                 "dt_code": "615",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -2084,7 +2084,7 @@
             "properties": {
                 "district": "Coimbatore",
                 "dt_code": "632",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -2229,7 +2229,7 @@
             "properties": {
                 "district": "Tiruchirappalli",
                 "dt_code": "614",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -2406,7 +2406,7 @@
             "properties": {
                 "district": "Ariyalur",
                 "dt_code": "616",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -2483,7 +2483,7 @@
             "properties": {
                 "district": "Tiruppur",
                 "dt_code": "633",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -2636,7 +2636,7 @@
             "properties": {
                 "district": "Thanjavur",
                 "dt_code": "620",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -2777,7 +2777,7 @@
             "properties": {
                 "district": "Karur",
                 "dt_code": "613",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -2890,7 +2890,7 @@
             "properties": {
                 "district": "Thiruvarur",
                 "dt_code": "619",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -2983,7 +2983,7 @@
             "properties": {
                 "district": "Dindigul",
                 "dt_code": "612",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -3136,7 +3136,7 @@
             "properties": {
                 "district": "Madurai",
                 "dt_code": "623",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -3257,7 +3257,7 @@
             "properties": {
                 "district": "Theni",
                 "dt_code": "624",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -3342,7 +3342,7 @@
             "properties": {
                 "district": "Virudhunagar",
                 "dt_code": "625",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -3475,7 +3475,7 @@
             "properties": {
                 "district": "Thoothukkudi",
                 "dt_code": "627",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -3592,7 +3592,7 @@
             "properties": {
                 "district": "Kanyakumari",
                 "dt_code": "629",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -3657,7 +3657,7 @@
             "properties": {
                 "district": "Viluppuram",
                 "dt_code": "607",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2019"
             },
@@ -3774,7 +3774,7 @@
             "properties": {
                 "district": "Cuddalore",
                 "dt_code": "617",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -3911,7 +3911,7 @@
             "properties": {
                 "district": "Pudukkottai",
                 "dt_code": "621",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -4040,7 +4040,7 @@
             "properties": {
                 "district": "Sivaganga",
                 "dt_code": "622",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -4169,7 +4169,7 @@
             "properties": {
                 "district": "Ramanathapuram",
                 "dt_code": "626",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -4322,7 +4322,7 @@
             "properties": {
                 "district": "Nagapattinam",
                 "dt_code": "618",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2011_c"
             },
@@ -4449,7 +4449,7 @@
             "properties": {
                 "district": "Kallakurichi",
                 "dt_code": "729",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2019"
             },
@@ -4574,7 +4574,7 @@
             "properties": {
                 "district": "Tenkasi",
                 "dt_code": "0",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2019"
             },
@@ -4675,7 +4675,7 @@
             "properties": {
                 "district": "Tirunelveli",
                 "dt_code": "628",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2019"
             },
@@ -4792,7 +4792,7 @@
             "properties": {
                 "district": "Vellore",
                 "dt_code": "605",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2019"
             },
@@ -4893,7 +4893,7 @@
             "properties": {
                 "district": "Ranipet",
                 "dt_code": "0",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2019"
             },
@@ -4986,7 +4986,7 @@
             "properties": {
                 "district": "Tirupathur",
                 "dt_code": "0",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2019"
             },
@@ -5059,7 +5059,7 @@
             "properties": {
                 "district": "Kancheepuram",
                 "dt_code": "604",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2019"
             },
@@ -5152,7 +5152,7 @@
             "properties": {
                 "district": "Chengalpattu",
                 "dt_code": "0",
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33",
                 "year": "2019"
             },
@@ -5253,7 +5253,7 @@
             "properties": {
                 "district": "Burhanpur",
                 "dt_code": "467",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -5350,7 +5350,7 @@
             "properties": {
                 "district": "Gondia",
                 "dt_code": "507",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -5491,7 +5491,7 @@
             "properties": {
                 "district": "Bhandara",
                 "dt_code": "506",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -5612,7 +5612,7 @@
             "properties": {
                 "district": "Jalgaon",
                 "dt_code": "499",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -5805,7 +5805,7 @@
             "properties": {
                 "district": "Mahasamund",
                 "dt_code": "411",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -5922,7 +5922,7 @@
             "properties": {
                 "district": "Wardha",
                 "dt_code": "504",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -6059,7 +6059,7 @@
             "properties": {
                 "district": "Buldhana",
                 "dt_code": "500",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -6385,7 +6385,7 @@
             "properties": {
                 "district": "Akola",
                 "dt_code": "501",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -7236,7 +7236,7 @@
             "properties": {
                 "district": "Nashik",
                 "dt_code": "516",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -7566,7 +7566,7 @@
             "properties": {
                 "district": "Gadchiroli",
                 "dt_code": "508",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -7823,7 +7823,7 @@
             "properties": {
                 "district": "Washim",
                 "dt_code": "502",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -8125,7 +8125,7 @@
             "properties": {
                 "district": "Chandrapur",
                 "dt_code": "509",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -8314,7 +8314,7 @@
             "properties": {
                 "district": "Yavatmal",
                 "dt_code": "510",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -8708,7 +8708,7 @@
             "properties": {
                 "district": "Jalna",
                 "dt_code": "514",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -9002,7 +9002,7 @@
             "properties": {
                 "district": "Uttar Bastar Kanker",
                 "dt_code": "413",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -9655,7 +9655,7 @@
             "properties": {
                 "district": "Ahmednagar",
                 "dt_code": "522",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -10097,7 +10097,7 @@
             "properties": {
                 "district": "Hingoli",
                 "dt_code": "512",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -10379,7 +10379,7 @@
             "properties": {
                 "district": "Nanded",
                 "dt_code": "511",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -10636,7 +10636,7 @@
             "properties": {
                 "district": "Narayanpur",
                 "dt_code": "415",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -10745,7 +10745,7 @@
             "properties": {
                 "district": "Parbhani",
                 "dt_code": "513",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -10874,7 +10874,7 @@
             "properties": {
                 "district": "Pune",
                 "dt_code": "521",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -11091,7 +11091,7 @@
             "properties": {
                 "district": "Beed",
                 "dt_code": "523",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -11268,7 +11268,7 @@
             "properties": {
                 "district": "Mumbai",
                 "dt_code": "519",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -11816,7 +11816,7 @@
             "properties": {
                 "district": "Latur",
                 "dt_code": "524",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -11961,7 +11961,7 @@
             "properties": {
                 "district": "Osmanabad",
                 "dt_code": "525",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -12291,7 +12291,7 @@
             "properties": {
                 "district": "Solapur",
                 "dt_code": "526",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -12914,7 +12914,7 @@
             "properties": {
                 "district": "Satara",
                 "dt_code": "527",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -13071,7 +13071,7 @@
             "properties": {
                 "district": "Ratnagiri",
                 "dt_code": "528",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -13429,7 +13429,7 @@
             "properties": {
                 "district": "Sangli",
                 "dt_code": "531",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -13646,7 +13646,7 @@
             "properties": {
                 "district": "Kolhapur",
                 "dt_code": "530",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -14607,7 +14607,7 @@
             "properties": {
                 "district": "Sindhudurg",
                 "dt_code": "529",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -20344,7 +20344,7 @@
             "properties": {
                 "district": "Dakshin Bastar Dantewada",
                 "dt_code": "416",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -20473,7 +20473,7 @@
             "properties": {
                 "district": "Bastar",
                 "dt_code": "414",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -20614,7 +20614,7 @@
             "properties": {
                 "district": "Kondagaon",
                 "dt_code": "722",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "update2014"
             },
@@ -20759,7 +20759,7 @@
             "properties": {
                 "district": "Gariaband",
                 "dt_code": "720",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "update2014"
             },
@@ -20900,7 +20900,7 @@
             "properties": {
                 "district": "Raipur",
                 "dt_code": "410",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -20993,7 +20993,7 @@
             "properties": {
                 "district": "Durg",
                 "dt_code": "409",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -21086,7 +21086,7 @@
             "properties": {
                 "district": "Thane",
                 "dt_code": "517",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -21203,7 +21203,7 @@
             "properties": {
                 "district": "Adilabad",
                 "dt_code": "532",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -21320,7 +21320,7 @@
             "properties": {
                 "district": "Hyderabad",
                 "dt_code": "536",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -21361,7 +21361,7 @@
             "properties": {
                 "district": "Jagtial",
                 "dt_code": "737",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -21466,7 +21466,7 @@
             "properties": {
                 "district": "Jangaon",
                 "dt_code": "752",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -21563,7 +21563,7 @@
             "properties": {
                 "district": "Mulugu",
                 "dt_code": "780",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2019"
             },
@@ -21660,7 +21660,7 @@
             "properties": {
                 "district": "Jogulamba Gadwal",
                 "dt_code": "744",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -21737,7 +21737,7 @@
             "properties": {
                 "district": "Kamareddy",
                 "dt_code": "736",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -21870,7 +21870,7 @@
             "properties": {
                 "district": "Karimnagar",
                 "dt_code": "534",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -21967,7 +21967,7 @@
             "properties": {
                 "district": "Khammam",
                 "dt_code": "541",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -22120,7 +22120,7 @@
             "properties": {
                 "district": "Komaram Bheem",
                 "dt_code": "733",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -22245,7 +22245,7 @@
             "properties": {
                 "district": "Mahabubabad",
                 "dt_code": "751",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -22350,7 +22350,7 @@
             "properties": {
                 "district": "Mahabubnagar",
                 "dt_code": "538",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -22431,7 +22431,7 @@
             "properties": {
                 "district": "Mancherial",
                 "dt_code": "735",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -22564,7 +22564,7 @@
             "properties": {
                 "district": "Medak",
                 "dt_code": "535",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -22665,7 +22665,7 @@
             "properties": {
                 "district": "Medchal Malkajgiri",
                 "dt_code": "742",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -22734,7 +22734,7 @@
             "properties": {
                 "district": "Nagarkurnool",
                 "dt_code": "746",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -22867,7 +22867,7 @@
             "properties": {
                 "district": "Nalgonda",
                 "dt_code": "539",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -22996,7 +22996,7 @@
             "properties": {
                 "district": "Nirmal",
                 "dt_code": "734",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -23137,7 +23137,7 @@
             "properties": {
                 "district": "Nizamabad",
                 "dt_code": "533",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -23254,7 +23254,7 @@
             "properties": {
                 "district": "Peddapalli",
                 "dt_code": "738",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -23343,7 +23343,7 @@
             "properties": {
                 "district": "Rajanna Sircilla",
                 "dt_code": "739",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -23424,7 +23424,7 @@
             "properties": {
                 "district": "Ranga Reddy",
                 "dt_code": "537",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -23553,7 +23553,7 @@
             "properties": {
                 "district": "Sangareddy",
                 "dt_code": "740",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -23706,7 +23706,7 @@
             "properties": {
                 "district": "Siddipet",
                 "dt_code": "741",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -23819,7 +23819,7 @@
             "properties": {
                 "district": "Suryapet",
                 "dt_code": "748",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -23924,7 +23924,7 @@
             "properties": {
                 "district": "Vikarabad",
                 "dt_code": "743",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -24033,7 +24033,7 @@
             "properties": {
                 "district": "Wanaparthy",
                 "dt_code": "745",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -24122,7 +24122,7 @@
             "properties": {
                 "district": "Warangal Rural",
                 "dt_code": "749",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -24215,7 +24215,7 @@
             "properties": {
                 "district": "Warangal Urban",
                 "dt_code": "540",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -24288,7 +24288,7 @@
             "properties": {
                 "district": "Yadadri Bhuvanagiri",
                 "dt_code": "747",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -24401,7 +24401,7 @@
             "properties": {
                 "district": "South 24 Parganas",
                 "dt_code": "343",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -25077,7 +25077,7 @@
             "properties": {
                 "district": "Dhamtari",
                 "dt_code": "412",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -25307,7 +25307,7 @@
             "properties": {
                 "district": "Dadra and Nagar Haveli",
                 "dt_code": "496",
-                "st_nm": "Dadra and Nagar Haveli and Daman and Diu",
+                "st_nm": "D & N HAVELI",
                 "st_code": "26",
                 "year": "2011_c"
             },
@@ -25360,7 +25360,7 @@
             "properties": {
                 "district": "Palghar",
                 "dt_code": "732",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "update2014"
             },
@@ -26999,7 +26999,7 @@
             "properties": {
                 "district": "Balod",
                 "dt_code": "719",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "update2014"
             },
@@ -27100,7 +27100,7 @@
             "properties": {
                 "district": "Bhadradri Kothagudem",
                 "dt_code": "753",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -27362,7 +27362,7 @@
             "properties": {
                 "district": "Paschim Medinipur",
                 "dt_code": "344",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -27499,7 +27499,7 @@
             "properties": {
                 "district": "Seoni",
                 "dt_code": "456",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -27656,7 +27656,7 @@
             "properties": {
                 "district": "Alirajpur",
                 "dt_code": "465",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -27769,7 +27769,7 @@
             "properties": {
                 "district": "Chhindwara",
                 "dt_code": "455",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -27950,7 +27950,7 @@
             "properties": {
                 "district": "Harda",
                 "dt_code": "448",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -28047,7 +28047,7 @@
             "properties": {
                 "district": "Khargone",
                 "dt_code": "440",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -28212,7 +28212,7 @@
             "properties": {
                 "district": "Purba Medinipur",
                 "dt_code": "345",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -28824,7 +28824,7 @@
             "properties": {
                 "district": "Kabeerdham",
                 "dt_code": "407",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -28933,7 +28933,7 @@
             "properties": {
                 "district": "Khandwa",
                 "dt_code": "466",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -29187,7 +29187,7 @@
             "properties": {
                 "district": "Balaghat",
                 "dt_code": "457",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -29469,7 +29469,7 @@
             "properties": {
                 "district": "Barwani",
                 "dt_code": "441",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -29602,7 +29602,7 @@
             "properties": {
                 "district": "Janjgir Champa",
                 "dt_code": "405",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -29707,7 +29707,7 @@
             "properties": {
                 "district": "Nandurbar",
                 "dt_code": "497",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -30283,7 +30283,7 @@
             "properties": {
                 "district": "Bametara",
                 "dt_code": "718",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "update2014"
             },
@@ -30376,7 +30376,7 @@
             "properties": {
                 "district": "Rajnandgaon",
                 "dt_code": "408",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -30581,7 +30581,7 @@
             "properties": {
                 "district": "Amravati",
                 "dt_code": "503",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -30943,7 +30943,7 @@
             "properties": {
                 "district": "Dhule",
                 "dt_code": "498",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -31430,7 +31430,7 @@
             "properties": {
                 "district": "Nagpur",
                 "dt_code": "505",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -31607,7 +31607,7 @@
             "properties": {
                 "district": "Baloda Bazar",
                 "dt_code": "721",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "update2014"
             },
@@ -31732,7 +31732,7 @@
             "properties": {
                 "district": "Mungeli",
                 "dt_code": "717",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "update2014"
             },
@@ -32120,7 +32120,7 @@
             "properties": {
                 "district": "Jhargram",
                 "dt_code": "776",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2017_c"
             },
@@ -32569,7 +32569,7 @@
             "properties": {
                 "district": "Betul",
                 "dt_code": "447",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -33250,7 +33250,7 @@
             "properties": {
                 "district": "Aurangabad",
                 "dt_code": "515",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -33612,7 +33612,7 @@
             "properties": {
                 "district": "Bijapur",
                 "dt_code": "417",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -33773,7 +33773,7 @@
             "properties": {
                 "district": "Raigad",
                 "dt_code": "520",
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27",
                 "year": "2011_c"
             },
@@ -33954,7 +33954,7 @@
             "properties": {
                 "district": "Raigarh",
                 "dt_code": "403",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -34135,7 +34135,7 @@
             "properties": {
                 "district": "Bilaspur",
                 "dt_code": "406",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -34698,7 +34698,7 @@
             "properties": {
                 "district": "Daman",
                 "dt_code": "495",
-                "st_nm": "Dadra and Nagar Haveli and Daman and Diu",
+                "st_nm": "D & N HAVELI",
                 "st_code": "26",
                 "year": "2011_c"
             },
@@ -34731,7 +34731,7 @@
             "properties": {
                 "district": "Diu",
                 "dt_code": "494",
-                "st_nm": "Dadra and Nagar Haveli and Daman and Diu",
+                "st_nm": "D & N HAVELI",
                 "st_code": "26",
                 "year": "2011_c"
             },
@@ -34764,7 +34764,7 @@
             "properties": {
                 "district": "Jayashankar Bhupalapally",
                 "dt_code": "750",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2016_c"
             },
@@ -34869,7 +34869,7 @@
             "properties": {
                 "district": "Narayanpet",
                 "dt_code": "781",
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36",
                 "year": "2019"
             },
@@ -34966,7 +34966,7 @@
             "properties": {
                 "district": "Sukma",
                 "dt_code": "723",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "update2014"
             },
@@ -40060,9 +40060,9 @@
         {
             "type": "Feature",
             "properties": {
-                "district": "North Tripura",
+                "district": "North TRIPURA",
                 "dt_code": "292",
-                "st_nm": "Tripura",
+                "st_nm": "TRIPURA",
                 "st_code": "16",
                 "year": "2011_c"
             },
@@ -40155,7 +40155,7 @@
             "properties": {
                 "district": "Dhalai",
                 "dt_code": "291",
-                "st_nm": "Tripura",
+                "st_nm": "TRIPURA",
                 "st_code": "16",
                 "year": "2011_c"
             },
@@ -40252,7 +40252,7 @@
             "properties": {
                 "district": "Sipahijala",
                 "dt_code": "707",
-                "st_nm": "Tripura",
+                "st_nm": "TRIPURA",
                 "st_code": "16",
                 "year": "update2014"
             },
@@ -40321,7 +40321,7 @@
             "properties": {
                 "district": "Gomati",
                 "dt_code": "709",
-                "st_nm": "Tripura",
+                "st_nm": "TRIPURA",
                 "st_code": "16",
                 "year": "update2014"
             },
@@ -41903,7 +41903,7 @@
             "properties": {
                 "district": "Khowai",
                 "dt_code": "708",
-                "st_nm": "Tripura",
+                "st_nm": "TRIPURA",
                 "st_code": "16",
                 "year": "update2014"
             },
@@ -41966,9 +41966,9 @@
         {
             "type": "Feature",
             "properties": {
-                "district": "West Tripura",
+                "district": "West TRIPURA",
                 "dt_code": "289",
-                "st_nm": "Tripura",
+                "st_nm": "TRIPURA",
                 "st_code": "16",
                 "year": "2011_c"
             },
@@ -42027,9 +42027,9 @@
         {
             "type": "Feature",
             "properties": {
-                "district": "South Tripura",
+                "district": "South TRIPURA",
                 "dt_code": "290",
-                "st_nm": "Tripura",
+                "st_nm": "TRIPURA",
                 "st_code": "16",
                 "year": "2011_c"
             },
@@ -42094,7 +42094,7 @@
             "properties": {
                 "district": "Unokoti",
                 "dt_code": "710",
-                "st_nm": "Tripura",
+                "st_nm": "TRIPURA",
                 "st_code": "16",
                 "year": "update2014"
             },
@@ -44683,7 +44683,7 @@
             "properties": {
                 "district": "North and Middle Andaman",
                 "dt_code": "639",
-                "st_nm": "Andaman and Nicobar Islands",
+                "st_nm": "A & N ISLANDS",
                 "st_code": "35",
                 "year": "2011_c"
             },
@@ -44854,7 +44854,7 @@
             "properties": {
                 "district": "South Andaman",
                 "dt_code": "640",
-                "st_nm": "Andaman and Nicobar Islands",
+                "st_nm": "A & N ISLANDS",
                 "st_code": "35",
                 "year": "2011_c"
             },
@@ -44997,7 +44997,7 @@
             "properties": {
                 "district": "Nicobars",
                 "dt_code": "638",
-                "st_nm": "Andaman and Nicobar Islands",
+                "st_nm": "A & N ISLANDS",
                 "st_code": "35",
                 "year": "2011_c"
             },
@@ -45108,7 +45108,7 @@
             "properties": {
                 "district": "Amroha",
                 "dt_code": "137",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -45197,7 +45197,7 @@
             "properties": {
                 "district": "Churu",
                 "dt_code": "102",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -45466,7 +45466,7 @@
             "properties": {
                 "district": "Hapur",
                 "dt_code": "705",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "update2014"
             },
@@ -45538,7 +45538,7 @@
             "type": "Feature",
             "properties": {
                 "district": "Delhi",
-                "st_nm": "Delhi",
+                "st_nm": "DELHI UT",
                 "st_code": "07",
                 "year": "2011_c"
             },
@@ -45740,7 +45740,7 @@
             "properties": {
                 "district": "Bareilly",
                 "dt_code": "150",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -45849,7 +45849,7 @@
             "properties": {
                 "district": "Pilibhit",
                 "dt_code": "151",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -45966,7 +45966,7 @@
             "properties": {
                 "district": "Bulandshahr",
                 "dt_code": "142",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -46079,7 +46079,7 @@
             "properties": {
                 "district": "Gautam Buddha Nagar",
                 "dt_code": "141",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -46152,7 +46152,7 @@
             "properties": {
                 "district": "Lakhimpur Kheri",
                 "dt_code": "153",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -46297,7 +46297,7 @@
             "properties": {
                 "district": "Jhunjhunu",
                 "dt_code": "103",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -46726,7 +46726,7 @@
             "properties": {
                 "district": "Budaun",
                 "dt_code": "149",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -46831,7 +46831,7 @@
             "properties": {
                 "district": "Jaisalmer",
                 "dt_code": "114",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -47148,7 +47148,7 @@
             "properties": {
                 "district": "Bahraich",
                 "dt_code": "180",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -47358,7 +47358,7 @@
             "properties": {
                 "district": "Shahjahanpur",
                 "dt_code": "152",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -47491,7 +47491,7 @@
             "properties": {
                 "district": "Sikar",
                 "dt_code": "111",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -47733,7 +47733,7 @@
             "properties": {
                 "district": "Alwar",
                 "dt_code": "104",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -47910,7 +47910,7 @@
             "properties": {
                 "district": "North Sikkim",
                 "dt_code": "241",
-                "st_nm": "Sikkim",
+                "st_nm": "SIKKIM",
                 "st_code": "11",
                 "year": "2011_c"
             },
@@ -48007,7 +48007,7 @@
             "properties": {
                 "district": "Aligarh",
                 "dt_code": "143",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -48140,7 +48140,7 @@
             "properties": {
                 "district": "Kasganj",
                 "dt_code": "202",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -48229,7 +48229,7 @@
             "properties": {
                 "district": "Mathura",
                 "dt_code": "145",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -48322,7 +48322,7 @@
             "properties": {
                 "district": "Jaipur",
                 "dt_code": "110",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -48543,7 +48543,7 @@
             "properties": {
                 "district": "Shrawasti",
                 "dt_code": "181",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -48632,7 +48632,7 @@
             "properties": {
                 "district": "Jodhpur",
                 "dt_code": "113",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -48885,7 +48885,7 @@
             "properties": {
                 "district": "Sitapur",
                 "dt_code": "154",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -49010,7 +49010,7 @@
             "properties": {
                 "district": "Bharatpur",
                 "dt_code": "105",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -49131,7 +49131,7 @@
             "properties": {
                 "district": "Hathras",
                 "dt_code": "144",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -49224,7 +49224,7 @@
             "properties": {
                 "district": "Nagaur",
                 "dt_code": "112",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -49473,7 +49473,7 @@
             "properties": {
                 "district": "Etah",
                 "dt_code": "201",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -49598,7 +49598,7 @@
             "properties": {
                 "district": "Hardoi",
                 "dt_code": "155",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -49735,7 +49735,7 @@
             "properties": {
                 "district": "Farrukhabad",
                 "dt_code": "159",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -49816,7 +49816,7 @@
             "properties": {
                 "district": "West Sikkim",
                 "dt_code": "242",
-                "st_nm": "Sikkim",
+                "st_nm": "SIKKIM",
                 "st_code": "11",
                 "year": "2011_c"
             },
@@ -49877,7 +49877,7 @@
             "properties": {
                 "district": "South Sikkim",
                 "dt_code": "243",
-                "st_nm": "Sikkim",
+                "st_nm": "SIKKIM",
                 "st_code": "11",
                 "year": "2011_c"
             },
@@ -49938,7 +49938,7 @@
             "properties": {
                 "district": "East Sikkim",
                 "dt_code": "244",
-                "st_nm": "Sikkim",
+                "st_nm": "SIKKIM",
                 "st_code": "11",
                 "year": "2011_c"
             },
@@ -49999,7 +49999,7 @@
             "properties": {
                 "district": "Firozabad",
                 "dt_code": "147",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -50201,7 +50201,7 @@
             "properties": {
                 "district": "Siddharthnagar",
                 "dt_code": "184",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -50294,7 +50294,7 @@
             "properties": {
                 "district": "Mainpuri",
                 "dt_code": "148",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -50379,7 +50379,7 @@
             "properties": {
                 "district": "Maharajganj",
                 "dt_code": "187",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -50476,7 +50476,7 @@
             "properties": {
                 "district": "Agra",
                 "dt_code": "146",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -50633,7 +50633,7 @@
             "properties": {
                 "district": "Gonda",
                 "dt_code": "183",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -50750,7 +50750,7 @@
             "properties": {
                 "district": "Barabanki",
                 "dt_code": "176",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -50863,7 +50863,7 @@
             "properties": {
                 "district": "Darjeeling",
                 "dt_code": "327",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -50952,7 +50952,7 @@
             "properties": {
                 "district": "Dausa",
                 "dt_code": "109",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -51093,7 +51093,7 @@
             "properties": {
                 "district": "Kushinagar",
                 "dt_code": "189",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -51198,7 +51198,7 @@
             "properties": {
                 "district": "Kannauj",
                 "dt_code": "160",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -51291,7 +51291,7 @@
             "properties": {
                 "district": "Lucknow",
                 "dt_code": "157",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -51376,7 +51376,7 @@
             "properties": {
                 "district": "Jalpaiguri",
                 "dt_code": "328",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -51481,7 +51481,7 @@
             "properties": {
                 "district": "Basti",
                 "dt_code": "185",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -51586,7 +51586,7 @@
             "properties": {
                 "district": "Gorakhpur",
                 "dt_code": "188",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -51719,7 +51719,7 @@
             "properties": {
                 "district": "Sant Kabir Nagar",
                 "dt_code": "186",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -51804,7 +51804,7 @@
             "properties": {
                 "district": "Karauli",
                 "dt_code": "107",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -52062,7 +52062,7 @@
             "properties": {
                 "district": "Unnao",
                 "dt_code": "156",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -52187,7 +52187,7 @@
             "properties": {
                 "district": "Etawah",
                 "dt_code": "161",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -52268,7 +52268,7 @@
             "properties": {
                 "district": "Dholpur",
                 "dt_code": "106",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -52381,7 +52381,7 @@
             "properties": {
                 "district": "Kanpur Nagar",
                 "dt_code": "164",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -52502,7 +52502,7 @@
             "properties": {
                 "district": "Auraiya",
                 "dt_code": "162",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -52583,7 +52583,7 @@
             "properties": {
                 "district": "Morena",
                 "dt_code": "419",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -52736,7 +52736,7 @@
             "properties": {
                 "district": "Barmer",
                 "dt_code": "115",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -53017,7 +53017,7 @@
             "properties": {
                 "district": "Ayodhya",
                 "dt_code": "177",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -53110,7 +53110,7 @@
             "properties": {
                 "district": "Kanpur Dehat",
                 "dt_code": "163",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -53211,7 +53211,7 @@
             "properties": {
                 "district": "Bhind",
                 "dt_code": "420",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -53332,7 +53332,7 @@
             "properties": {
                 "district": "Sawai Madhopur",
                 "dt_code": "108",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -53477,7 +53477,7 @@
             "properties": {
                 "district": "Deoria",
                 "dt_code": "190",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -53667,7 +53667,7 @@
             "properties": {
                 "district": "Tonk",
                 "dt_code": "120",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -53893,7 +53893,7 @@
             "properties": {
                 "district": "Sultanpur",
                 "dt_code": "179",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -53994,7 +53994,7 @@
             "properties": {
                 "district": "Pali",
                 "dt_code": "118",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -54312,7 +54312,7 @@
             "properties": {
                 "district": "Ambedkar Nagar",
                 "dt_code": "178",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -54425,7 +54425,7 @@
             "properties": {
                 "district": "Rae Bareli",
                 "dt_code": "158",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -54538,7 +54538,7 @@
             "properties": {
                 "district": "Jalaun",
                 "dt_code": "165",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -54667,7 +54667,7 @@
             "properties": {
                 "district": "Azamgarh",
                 "dt_code": "191",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -54792,7 +54792,7 @@
             "properties": {
                 "district": "Gwalior",
                 "dt_code": "421",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -54893,7 +54893,7 @@
             "properties": {
                 "district": "Sheopur",
                 "dt_code": "418",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -55026,7 +55026,7 @@
             "properties": {
                 "district": "Mau",
                 "dt_code": "192",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -55119,7 +55119,7 @@
             "properties": {
                 "district": "Fatehpur",
                 "dt_code": "172",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -55248,7 +55248,7 @@
             "properties": {
                 "district": "Ballia",
                 "dt_code": "193",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -55365,7 +55365,7 @@
             "properties": {
                 "district": "Jaunpur",
                 "dt_code": "194",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -55494,7 +55494,7 @@
             "properties": {
                 "district": "Bhilwara",
                 "dt_code": "122",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -55808,7 +55808,7 @@
             "properties": {
                 "district": "Jalore",
                 "dt_code": "116",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -56005,7 +56005,7 @@
             "properties": {
                 "district": "Bundi",
                 "dt_code": "121",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -56267,7 +56267,7 @@
             "properties": {
                 "district": "Jhansi",
                 "dt_code": "166",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -56460,7 +56460,7 @@
             "properties": {
                 "district": "Shivpuri",
                 "dt_code": "423",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -56685,7 +56685,7 @@
             "properties": {
                 "district": "Kota",
                 "dt_code": "127",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -56842,7 +56842,7 @@
             "properties": {
                 "district": "Banda",
                 "dt_code": "170",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -56999,7 +56999,7 @@
             "properties": {
                 "district": "Ghazipur",
                 "dt_code": "195",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -57100,7 +57100,7 @@
             "properties": {
                 "district": "Kaushambi",
                 "dt_code": "174",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -57371,7 +57371,7 @@
             "properties": {
                 "district": "Prayagraj",
                 "dt_code": "175",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -57577,7 +57577,7 @@
             "properties": {
                 "district": "Dakshin Dinajpur",
                 "dt_code": "331",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -57654,7 +57654,7 @@
             "properties": {
                 "district": "Malda",
                 "dt_code": "332",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -57787,7 +57787,7 @@
             "properties": {
                 "district": "Tikamgarh",
                 "dt_code": "424",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -57904,7 +57904,7 @@
             "properties": {
                 "district": "Varanasi",
                 "dt_code": "197",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -58199,7 +58199,7 @@
             "properties": {
                 "district": "Sirohi",
                 "dt_code": "117",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -58316,7 +58316,7 @@
             "properties": {
                 "district": "Chitrakoot",
                 "dt_code": "171",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -58441,7 +58441,7 @@
             "properties": {
                 "district": "Chandauli",
                 "dt_code": "196",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -58546,7 +58546,7 @@
             "properties": {
                 "district": "Bhadohi",
                 "dt_code": "198",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -58619,7 +58619,7 @@
             "properties": {
                 "district": "Baran",
                 "dt_code": "128",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -59119,7 +59119,7 @@
             "properties": {
                 "district": "Udaipur",
                 "dt_code": "130",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -59433,7 +59433,7 @@
             "properties": {
                 "district": "Mirzapur",
                 "dt_code": "199",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -59554,7 +59554,7 @@
             "properties": {
                 "district": "Lalitpur",
                 "dt_code": "167",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -59788,7 +59788,7 @@
             "properties": {
                 "district": "Neemuch",
                 "dt_code": "432",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -60026,7 +60026,7 @@
             "properties": {
                 "district": "Rewa",
                 "dt_code": "430",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -60147,7 +60147,7 @@
             "properties": {
                 "district": "Satna",
                 "dt_code": "429",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -60324,7 +60324,7 @@
             "properties": {
                 "district": "Guna",
                 "dt_code": "458",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -60767,7 +60767,7 @@
             "properties": {
                 "district": "Ashoknagar",
                 "dt_code": "459",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -61061,7 +61061,7 @@
             "properties": {
                 "district": "Jhalawar",
                 "dt_code": "129",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -61238,7 +61238,7 @@
             "properties": {
                 "district": "Murshidabad",
                 "dt_code": "333",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -61383,7 +61383,7 @@
             "properties": {
                 "district": "Sonbhadra",
                 "dt_code": "200",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -61605,7 +61605,7 @@
             "properties": {
                 "district": "Mandsaur",
                 "dt_code": "433",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -62061,7 +62061,7 @@
             "properties": {
                 "district": "Singrauli",
                 "dt_code": "463",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -62194,7 +62194,7 @@
             "properties": {
                 "district": "Birbhum",
                 "dt_code": "334",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -62549,7 +62549,7 @@
             "properties": {
                 "district": "Sidhi",
                 "dt_code": "462",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -62904,7 +62904,7 @@
             "properties": {
                 "district": "Sagar",
                 "dt_code": "427",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -63250,7 +63250,7 @@
             "properties": {
                 "district": "Damoh",
                 "dt_code": "428",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -63391,7 +63391,7 @@
             "properties": {
                 "district": "Shajapur",
                 "dt_code": "436",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -63504,7 +63504,7 @@
             "properties": {
                 "district": "Vidisha",
                 "dt_code": "443",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -63810,7 +63810,7 @@
             "properties": {
                 "district": "Rajgarh",
                 "dt_code": "442",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -63943,7 +63943,7 @@
             "properties": {
                 "district": "Shahdol",
                 "dt_code": "460",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -64116,7 +64116,7 @@
             "properties": {
                 "district": "Nadia",
                 "dt_code": "336",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -64326,7 +64326,7 @@
             "properties": {
                 "district": "Dungarpur",
                 "dt_code": "124",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -64451,7 +64451,7 @@
             "properties": {
                 "district": "Katni",
                 "dt_code": "450",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -64673,7 +64673,7 @@
             "properties": {
                 "district": "Banswara",
                 "dt_code": "125",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -64786,7 +64786,7 @@
             "properties": {
                 "district": "Umaria",
                 "dt_code": "431",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -65060,7 +65060,7 @@
             "properties": {
                 "district": "Ratlam",
                 "dt_code": "434",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -65399,7 +65399,7 @@
             "properties": {
                 "district": "Bhopal",
                 "dt_code": "444",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -65504,7 +65504,7 @@
             "properties": {
                 "district": "Purba Bardhaman",
                 "dt_code": "335",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -65637,7 +65637,7 @@
             "properties": {
                 "district": "Koriya",
                 "dt_code": "400",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -65794,7 +65794,7 @@
             "properties": {
                 "district": "Ujjain",
                 "dt_code": "435",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -66277,7 +66277,7 @@
             "properties": {
                 "district": "Raisen",
                 "dt_code": "446",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -66442,7 +66442,7 @@
             "properties": {
                 "district": "Purulia",
                 "dt_code": "340",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -66583,7 +66583,7 @@
             "properties": {
                 "district": "Sehore",
                 "dt_code": "445",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -66941,7 +66941,7 @@
             "properties": {
                 "district": "Bankura",
                 "dt_code": "339",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -67248,7 +67248,7 @@
             "properties": {
                 "district": "Jabalpur",
                 "dt_code": "451",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -67651,7 +67651,7 @@
             "properties": {
                 "district": "Dewas",
                 "dt_code": "437",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -67824,7 +67824,7 @@
             "properties": {
                 "district": "Anuppur",
                 "dt_code": "461",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -67957,7 +67957,7 @@
             "properties": {
                 "district": "Jhabua",
                 "dt_code": "464",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -68050,7 +68050,7 @@
             "properties": {
                 "district": "North 24 Parganas",
                 "dt_code": "337",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -68179,7 +68179,7 @@
             "properties": {
                 "district": "Dindori",
                 "dt_code": "453",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -68332,7 +68332,7 @@
             "properties": {
                 "district": "Hooghly",
                 "dt_code": "338",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -68554,7 +68554,7 @@
             "properties": {
                 "district": "Narsinghpur",
                 "dt_code": "452",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -68687,7 +68687,7 @@
             "properties": {
                 "district": "Dhar",
                 "dt_code": "438",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -68844,7 +68844,7 @@
             "properties": {
                 "district": "Jashpur",
                 "dt_code": "402",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -68989,7 +68989,7 @@
             "properties": {
                 "district": "Indore",
                 "dt_code": "439",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -69207,7 +69207,7 @@
             "properties": {
                 "district": "Mandla",
                 "dt_code": "454",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -69481,7 +69481,7 @@
             "properties": {
                 "district": "Hoshangabad",
                 "dt_code": "449",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -69626,7 +69626,7 @@
             "properties": {
                 "district": "Korba",
                 "dt_code": "404",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -69900,7 +69900,7 @@
             "properties": {
                 "district": "Howrah",
                 "dt_code": "341",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -70102,7 +70102,7 @@
             "properties": {
                 "district": "Kolkata",
                 "dt_code": "342",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -71970,7 +71970,7 @@
             "properties": {
                 "district": "Surajpur",
                 "dt_code": "715",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "update2014"
             },
@@ -72111,7 +72111,7 @@
             "properties": {
                 "district": "Surguja",
                 "dt_code": "401",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -72462,7 +72462,7 @@
             "properties": {
                 "district": "Amethi",
                 "dt_code": "706",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "update2014"
             },
@@ -72575,7 +72575,7 @@
             "properties": {
                 "district": "Ghaziabad",
                 "dt_code": "140",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -72648,7 +72648,7 @@
             "properties": {
                 "district": "Agar Malwa",
                 "dt_code": "724",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "update2014"
             },
@@ -72741,7 +72741,7 @@
             "properties": {
                 "district": "Sambhal",
                 "dt_code": "754",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -72915,7 +72915,7 @@
             "properties": {
                 "district": "Alipurduar",
                 "dt_code": "774",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2014_c"
             },
@@ -73012,7 +73012,7 @@
             "properties": {
                 "district": "Paschim Bardhaman",
                 "dt_code": "777",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2017_c"
             },
@@ -73097,7 +73097,7 @@
             "properties": {
                 "district": "Kalimpong",
                 "dt_code": "775",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2017_c"
             },
@@ -73166,7 +73166,7 @@
             "properties": {
                 "district": "Ajmer",
                 "dt_code": "119",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -73413,7 +73413,7 @@
             "properties": {
                 "district": "Cooch Behar",
                 "dt_code": "329",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -73538,7 +73538,7 @@
             "properties": {
                 "district": "Uttar Dinajpur",
                 "dt_code": "330",
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19",
                 "year": "2011_c"
             },
@@ -73695,7 +73695,7 @@
             "properties": {
                 "district": "Datia",
                 "dt_code": "422",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -73822,7 +73822,7 @@
             "properties": {
                 "district": "Rajsamand",
                 "dt_code": "123",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -73993,7 +73993,7 @@
             "properties": {
                 "district": "Mahoba",
                 "dt_code": "169",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -74102,7 +74102,7 @@
             "properties": {
                 "district": "Chhatarpur",
                 "dt_code": "425",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -74343,7 +74343,7 @@
             "properties": {
                 "district": "Chittorgarh",
                 "dt_code": "126",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -74566,7 +74566,7 @@
             "properties": {
                 "district": "Panna",
                 "dt_code": "426",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2011_c"
             },
@@ -76892,7 +76892,7 @@
             "properties": {
                 "district": "Kupwara",
                 "dt_code": "001",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -76977,7 +76977,7 @@
             "properties": {
                 "district": "Bandipora",
                 "dt_code": "009",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77090,7 +77090,7 @@
             "properties": {
                 "district": "Baramulla",
                 "dt_code": "008",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77183,7 +77183,7 @@
             "properties": {
                 "district": "Ganderbal",
                 "dt_code": "011",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77276,7 +77276,7 @@
             "properties": {
                 "district": "Anantnag",
                 "dt_code": "014",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77397,7 +77397,7 @@
             "properties": {
                 "district": "Kishtwar",
                 "dt_code": "018",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77542,7 +77542,7 @@
             "properties": {
                 "district": "Srinagar",
                 "dt_code": "010",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77603,7 +77603,7 @@
             "properties": {
                 "district": "Budgam",
                 "dt_code": "002",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77664,7 +77664,7 @@
             "properties": {
                 "district": "Pulwama",
                 "dt_code": "012",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77725,7 +77725,7 @@
             "properties": {
                 "district": "Punch",
                 "dt_code": "005",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77850,7 +77850,7 @@
             "properties": {
                 "district": "Shopiyan",
                 "dt_code": "013",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -77907,7 +77907,7 @@
             "properties": {
                 "district": "Kulgam",
                 "dt_code": "015",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -78000,7 +78000,7 @@
             "properties": {
                 "district": "Rajouri",
                 "dt_code": "006",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -78089,7 +78089,7 @@
             "properties": {
                 "district": "Ramban",
                 "dt_code": "017",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -78162,7 +78162,7 @@
             "properties": {
                 "district": "Reasi",
                 "dt_code": "020",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -78259,7 +78259,7 @@
             "properties": {
                 "district": "Doda",
                 "dt_code": "016",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -78802,7 +78802,7 @@
             "properties": {
                 "district": "Jammu",
                 "dt_code": "021",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -78903,7 +78903,7 @@
             "properties": {
                 "district": "Kathua",
                 "dt_code": "007",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -78988,7 +78988,7 @@
             "properties": {
                 "district": "Gurdaspur",
                 "dt_code": "035",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -79363,7 +79363,7 @@
             "properties": {
                 "district": "Hoshiarpur",
                 "dt_code": "038",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -79480,7 +79480,7 @@
             "properties": {
                 "district": "Amritsar",
                 "dt_code": "049",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -80033,7 +80033,7 @@
             "properties": {
                 "district": "Jalandhar",
                 "dt_code": "037",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -80150,7 +80150,7 @@
             "properties": {
                 "district": "Tarn Taran",
                 "dt_code": "050",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -80231,7 +80231,7 @@
             "properties": {
                 "district": "Rupnagar",
                 "dt_code": "051",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -80316,7 +80316,7 @@
             "properties": {
                 "district": "Uttarkashi",
                 "dt_code": "056",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -80602,7 +80602,7 @@
             "properties": {
                 "district": "Shahid Bhagat Singh Nagar",
                 "dt_code": "039",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -80675,7 +80675,7 @@
             "properties": {
                 "district": "Fazilka",
                 "dt_code": "701",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "update2014"
             },
@@ -80764,7 +80764,7 @@
             "properties": {
                 "district": "Moga",
                 "dt_code": "042",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -80849,7 +80849,7 @@
             "properties": {
                 "district": "Ludhiana",
                 "dt_code": "041",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -80962,7 +80962,7 @@
             "properties": {
                 "district": "Chamoli",
                 "dt_code": "057",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -81111,7 +81111,7 @@
             "properties": {
                 "district": "Dehradun",
                 "dt_code": "060",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -81321,7 +81321,7 @@
             "properties": {
                 "district": "S.A.S. Nagar",
                 "dt_code": "052",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -81414,7 +81414,7 @@
             "properties": {
                 "district": "Faridkot",
                 "dt_code": "045",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -81495,7 +81495,7 @@
             "properties": {
                 "district": "Fatehgarh Sahib",
                 "dt_code": "040",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -81572,7 +81572,7 @@
             "properties": {
                 "district": "Tehri Garhwal",
                 "dt_code": "059",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -81754,7 +81754,7 @@
             "properties": {
                 "district": "Sri Muktsar Sahib",
                 "dt_code": "044",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -81847,7 +81847,7 @@
             "properties": {
                 "district": "Rudraprayag",
                 "dt_code": "058",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -81928,7 +81928,7 @@
             "properties": {
                 "district": "Pithoragarh",
                 "dt_code": "062",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -82089,7 +82089,7 @@
             "properties": {
                 "district": "Sangrur",
                 "dt_code": "053",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -82226,7 +82226,7 @@
             "properties": {
                 "district": "Barnala",
                 "dt_code": "054",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -82315,7 +82315,7 @@
             "properties": {
                 "district": "Bathinda",
                 "dt_code": "046",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -82432,7 +82432,7 @@
             "properties": {
                 "district": "Patiala",
                 "dt_code": "048",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -82634,7 +82634,7 @@
             "properties": {
                 "district": "Saharanpur",
                 "dt_code": "132",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -82735,7 +82735,7 @@
             "properties": {
                 "district": "Ganganagar",
                 "dt_code": "099",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -82916,7 +82916,7 @@
             "properties": {
                 "district": "Mansa",
                 "dt_code": "047",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -83098,7 +83098,7 @@
             "properties": {
                 "district": "Bageshwar",
                 "dt_code": "063",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -83187,7 +83187,7 @@
             "properties": {
                 "district": "Haridwar",
                 "dt_code": "068",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -83264,7 +83264,7 @@
             "properties": {
                 "district": "Pauri Garhwal",
                 "dt_code": "061",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -83599,7 +83599,7 @@
             "properties": {
                 "district": "Hanumangarh",
                 "dt_code": "100",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -83933,7 +83933,7 @@
             "properties": {
                 "district": "Almora",
                 "dt_code": "064",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -84252,7 +84252,7 @@
             "properties": {
                 "district": "Bijnor",
                 "dt_code": "134",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -84357,7 +84357,7 @@
             "properties": {
                 "district": "Muzaffarnagar",
                 "dt_code": "133",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -84555,7 +84555,7 @@
             "properties": {
                 "district": "Nainital",
                 "dt_code": "066",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -84745,7 +84745,7 @@
             "properties": {
                 "district": "Champawat",
                 "dt_code": "065",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -84826,7 +84826,7 @@
             "properties": {
                 "district": "Udham Singh Nagar",
                 "dt_code": "067",
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
@@ -85048,7 +85048,7 @@
             "properties": {
                 "district": "Baghpat",
                 "dt_code": "139",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -85121,7 +85121,7 @@
             "properties": {
                 "district": "Meerut",
                 "dt_code": "138",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -85210,7 +85210,7 @@
             "properties": {
                 "district": "Moradabad",
                 "dt_code": "135",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -85323,7 +85323,7 @@
             "properties": {
                 "district": "Bikaner",
                 "dt_code": "101",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -85624,7 +85624,7 @@
             "properties": {
                 "district": "Rampur",
                 "dt_code": "136",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -85919,7 +85919,7 @@
             "properties": {
                 "district": "Shamli",
                 "dt_code": "704",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "update2014"
             },
@@ -85988,7 +85988,7 @@
             "properties": {
                 "district": "Ferozepur",
                 "dt_code": "043",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -86077,7 +86077,7 @@
             "properties": {
                 "district": "Pathankot",
                 "dt_code": "773",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -86162,7 +86162,7 @@
             "properties": {
                 "district": "Udhampur",
                 "dt_code": "019",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -86251,7 +86251,7 @@
             "properties": {
                 "district": "Samba",
                 "dt_code": "022",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -86316,7 +86316,7 @@
             "properties": {
                 "district": "Kapurthala",
                 "dt_code": "036",
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03",
                 "year": "2011_c"
             },
@@ -86682,7 +86682,7 @@
             "properties": {
                 "district": "Balrampur",
                 "dt_code": "716",
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22",
                 "year": "2011_c"
             },
@@ -86843,7 +86843,7 @@
             "properties": {
                 "district": "Balrampur",
                 "dt_code": "182",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -86940,7 +86940,7 @@
             "properties": {
                 "district": "Hamirpur",
                 "dt_code": "168",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -87142,7 +87142,7 @@
             "properties": {
                 "district": "Pratapgarh",
                 "dt_code": "131",
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -87271,7 +87271,7 @@
             "properties": {
                 "district": "Pratapgarh",
                 "dt_code": "173",
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09",
                 "year": "2011_c"
             },
@@ -87485,7 +87485,7 @@
             "properties": {
                 "district": "Niwari",
                 "dt_code": "782",
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23",
                 "year": "2018"
             },
@@ -87558,7 +87558,7 @@
             "properties": {
                 "district": "Muzaffarabad",
                 "dt_code": "992",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -87707,7 +87707,7 @@
             "properties": {
                 "district": "Mirpur",
                 "dt_code": "991",
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -87833,9 +87833,9 @@
         },
         {
             "type": "Feature",
-            "id": "Mizoram",
+            "id": "MIZORAM",
             "properties": {
-                "st_nm": "Mizoram",
+                "st_nm": "MIZORAM",
                 "st_code": "15"
             },
             "geometry": {
@@ -88080,9 +88080,9 @@
         },
         {
             "type": "Feature",
-            "id": "Tamil Nadu",
+            "id": "TAMIL NADU",
             "properties": {
-                "st_nm": "Tamil Nadu",
+                "st_nm": "TAMIL NADU",
                 "st_code": "33"
             },
             "geometry": {
@@ -88775,9 +88775,9 @@
         },
         {
             "type": "Feature",
-            "id": "Madhya Pradesh",
+            "id": "MADHYA PRADESH",
             "properties": {
-                "st_nm": "Madhya Pradesh",
+                "st_nm": "MADHYA PRADESH",
                 "st_code": "23"
             },
             "geometry": {
@@ -90362,9 +90362,9 @@
         },
         {
             "type": "Feature",
-            "id": "Maharashtra",
+            "id": "MAHARASHTRA",
             "properties": {
-                "st_nm": "Maharashtra",
+                "st_nm": "MAHARASHTRA",
                 "st_code": "27"
             },
             "geometry": {
@@ -91593,9 +91593,9 @@
         },
         {
             "type": "Feature",
-            "id": "Chhattisgarh",
+            "id": "CHHATTISGARH",
             "properties": {
-                "st_nm": "Chhattisgarh",
+                "st_nm": "CHHATTISGARH",
                 "st_code": "22"
             },
             "geometry": {
@@ -96745,9 +96745,9 @@
         },
         {
             "type": "Feature",
-            "id": "Telangana",
+            "id": "TELANGANA",
             "properties": {
-                "st_nm": "Telangana",
+                "st_nm": "TELANGANA",
                 "st_code": "36"
             },
             "geometry": {
@@ -97352,9 +97352,9 @@
         },
         {
             "type": "Feature",
-            "id": "West Bengal",
+            "id": "WEST BENGAL",
             "properties": {
-                "st_nm": "West Bengal",
+                "st_nm": "WEST BENGAL",
                 "st_code": "19"
             },
             "geometry": {
@@ -98349,9 +98349,9 @@
         },
         {
             "type": "Feature",
-            "id": "Dadra and Nagar Haveli and Daman and Diu",
+            "id": "D & N HAVELI",
             "properties": {
-                "st_nm": "Dadra and Nagar Haveli and Daman and Diu",
+                "st_nm": "D & N HAVELI",
                 "st_code": "26",
                 "year": "2011_c"
             },
@@ -100803,9 +100803,9 @@
         },
         {
             "type": "Feature",
-            "id": "Tripura",
+            "id": "TRIPURA",
             "properties": {
-                "st_nm": "Tripura",
+                "st_nm": "TRIPURA",
                 "st_code": "16"
             },
             "geometry": {
@@ -101014,9 +101014,9 @@
         },
         {
             "type": "Feature",
-            "id": "Andaman and Nicobar Islands",
+            "id": "A & N ISLANDS",
             "properties": {
-                "st_nm": "Andaman and Nicobar Islands",
+                "st_nm": "A & N ISLANDS",
                 "st_code": "35",
                 "year": "2011_c"
             },
@@ -101408,9 +101408,9 @@
         },
         {
             "type": "Feature",
-            "id": "Uttar Pradesh",
+            "id": "UTTAR PRADESH",
             "properties": {
-                "st_nm": "Uttar Pradesh",
+                "st_nm": "UTTAR PRADESH",
                 "st_code": "09"
             },
             "geometry": {
@@ -102643,9 +102643,9 @@
         },
         {
             "type": "Feature",
-            "id": "Rajasthan",
+            "id": "RAJASTHAN",
             "properties": {
-                "st_nm": "Rajasthan",
+                "st_nm": "RAJASTHAN",
                 "st_code": "08",
                 "year": "2011_c"
             },
@@ -103855,9 +103855,9 @@
         },
         {
             "type": "Feature",
-            "id": "Delhi",
+            "id": "DELHI UT",
             "properties": {
-                "st_nm": "Delhi",
+                "st_nm": "DELHI UT",
                 "st_code": "07"
             },
             "geometry": {
@@ -104529,9 +104529,9 @@
         },
         {
             "type": "Feature",
-            "id": "Sikkim",
+            "id": "SIKKIM",
             "properties": {
-                "st_nm": "Sikkim",
+                "st_nm": "SIKKIM",
                 "st_code": "11",
                 "year": "2011_c"
             },
@@ -106761,9 +106761,9 @@
         },
         {
             "type": "Feature",
-            "id": "Jammu and Kashmir",
+            "id": "Jammu & Kashmir",
             "properties": {
-                "st_nm": "Jammu and Kashmir",
+                "st_nm": "Jammu & Kashmir",
                 "st_code": "01",
                 "year": "2011_c"
             },
@@ -107565,9 +107565,9 @@
         },
         {
             "type": "Feature",
-            "id": "Punjab",
+            "id": "PUNJAB",
             "properties": {
-                "st_nm": "Punjab",
+                "st_nm": "PUNJAB",
                 "st_code": "03"
             },
             "geometry": {
@@ -107976,9 +107976,9 @@
         },
         {
             "type": "Feature",
-            "id": "Uttarakhand",
+            "id": "UTTARAKHAND",
             "properties": {
-                "st_nm": "Uttarakhand",
+                "st_nm": "UTTARAKHAND",
                 "st_code": "05",
                 "year": "2011_c"
             },
