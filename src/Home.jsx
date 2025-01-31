@@ -9,10 +9,44 @@ function Home() {
   const [crimeData, setCrimeData] = useState([]);
   const [geoJson, setGeoJson] = useState(null);
 
+
+const summarizeByState = (data) => {
+  return data.reduce((acc, current) => {
+    // Find if the state already exists in the accumulator
+    const existingState = acc.find(item => item.state.toString().toUpperCase() === current.state.toString().toUpperCase());
+
+    if (existingState) {
+      // If the state exists, add the values to the existing state object
+      existingState.rape += current.rape;
+      existingState.ka += current.ka;
+      existingState.dd += current.dd;
+      existingState.aow += current.aow;
+      existingState.aom += current.aom;
+      existingState.dv += current.dv;
+      existingState.wt += current.wt;
+    } else {
+      // If the state does not exist, create a new entry
+      acc.push({
+        state: current.state,
+        rape: current.rape,
+        ka: current.ka,
+        dd: current.dd,
+        aow: current.aow,
+        aom: current.aom,
+        dv: current.dv,
+        wt: current.wt
+      });
+    }
+
+    return acc;
+  }, []);
+};
+
+
   useEffect(() => {
     fetch(API_URL)
       .then((res) => res.json())
-      .then((data) => setCrimeData(data))
+      .then((data) => setCrimeData(summarizeByState(data)))
       .catch((err) => console.error("Error fetching crime data:", err));
 
     fetch(GEOJSON_URL)
@@ -31,8 +65,8 @@ function Home() {
     const stateName = feature.properties.st_nm;
     const crimeRate = getCrimeRate(stateName);
     layer.setStyle({
-      fillColor:  crimeRate <= 5000 ? "yellow" : crimeRate >= 5000 && crimeRate <= 10000 ? "orange" :
-        crimeRate >= 10000 && crimeRate <= 20000 ? "purple" : crimeRate >= 20000 ? "red": "white",
+      fillColor:  crimeRate <= 10000 ? "yellow" : crimeRate >= 10000 && crimeRate <= 80000 ? "orange" :
+        crimeRate >= 80000 && crimeRate <= 200000 ? "purple" : crimeRate >= 200000 ? "red": "white",
       fillOpacity: 0.7,
       color: "black",
       weight: 1,
